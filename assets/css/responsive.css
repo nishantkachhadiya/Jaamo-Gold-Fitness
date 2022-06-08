@@ -1,0 +1,3023 @@
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .container{
+        max-width: 1140px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1530px) {
+    .container{
+        max-width: 1300px;
+    }
+}
+@media screen and (min-width: 1531px) and (max-width: 1800px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1801px) {
+    .container{
+        max-width: 1670px;
+    }
+}
+@media screen and (min-width: 1920px) {}
+
+@media screen and (max-width: 1800px) {
+    .news_page .new_slider_section .owl-prev{
+        left: -35px;
+    }
+    .news_page .new_slider_section .owl-next{
+        right: -35px;
+    }
+    .menu-nav ul li {
+        margin-right: 20px;
+    }
+    .logo-shape {
+        width: 420px;
+    }
+    .header-btn-block .common-small-btn {
+        padding: 5px 14px;
+    }
+    .fs-item-box {
+        padding: 25px;
+    }
+    .fs-item-btn .common-small-btn {
+        padding: 15px;
+    }
+    .fitness-blog-image-block {
+        max-width: 31%;
+    }
+
+    .probetraining-box {
+        padding: 84px 40px;
+    }
+    .probetraining-form-block, .probetraining-box .common-section-title {
+        max-width: 580px;
+    }
+
+    /*=======new======*/
+    .movement_training_inner_contain{
+        width: 800px;
+        padding: 45px 70px 45px 220px;
+    }    
+    .movement_inner_section{
+        padding: 53px 0px;
+    }
+    .gesundheitsstudio_contain{
+        padding: 55px 60px 55px;
+    }
+    .online-analyse-img2{
+        max-width: 520px;
+        bottom: 96px;
+        height: 300px;
+    }
+    .online-analyse-img1{
+        max-width: 350px;
+        height: 210px;
+    }
+}
+@media screen and (max-width: 1700px) {
+    .cp-left {
+        padding-left: 9%;
+    }
+    .cp-right {
+        padding-right: 9%;
+    }
+    .cm-shape {
+        left: -1px;
+    }
+    .lsu-three-ring-block {
+        padding: 100px 0px 100px 30px;
+    }
+    .lsu-three-ring-block ul li {
+        padding: 15px 35px;
+    }
+    .lsu-three-ring-block ul {
+        padding-right: 15px;
+    }
+    .footer-desk-logo {
+        width: 490px;
+        height: 260px;
+    }
+    .news_page .new_slider_section .owl-prev{
+        left: -12px;
+    }
+    .news_page .new_slider_section .owl-next{
+        right: -12px;
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-nav {
+        bottom: -24px;
+        left: 0;
+        right: -5.5%;
+    }
+
+}
+@media screen and (max-width: 1600px) {
+    .cp-left {
+        padding-left: 6%;
+    }
+    .cp-right {
+        padding-right: 6%;
+    }
+    .logo-shape {
+        width: 380px;
+    }
+    .menu-nav ul li {
+        margin-right: 20px;
+    }
+    .menu-nav ul {
+        padding-left: 110px;
+    }
+    .main-title {
+        font-size: 45px;
+    }
+    .section_title {
+        font-size: 30px;
+    }
+    .common-banner-content .common-btn-block {
+        padding-top: 35px;
+    }
+    .h-col {
+        width: auto;
+    }
+    .common-header-banner-line-block {
+        padding: 70px 0;
+    }
+    .home-banner-image {
+        border-radius: 70px 0 0 70px;
+    }
+    .faq-content-block, .bmi-rechner-wrapper {
+        padding: 70px 0 0;
+    }
+    .fitness-studio-slider-block, .das-sagen-unsere-block, .online-analyse-block, .probetraining-block, .faq-block {
+        padding: 70px 0;
+    }
+    .lernen-sie-uns-wrapper {
+        padding: 0px 0 70px;
+    }
+    .bist-du-block {
+        padding-top: 20%;
+    }
+    .bmi-rechner-block {
+        padding: 70px 00px;
+    }
+    .lsu-number-box h3 {
+        font-size: 60px;
+    }
+    .lsu-three-ring-block ul li {
+        padding: 15px;
+    }
+    .lsu-three-ring-block {
+        padding: 70px 0px 70px 30px;
+    }
+    .review-star-block span {
+        font-size: 30px;
+    }
+    .review-star-block {
+        margin: 15px 0;
+    }
+    .werde-teil-block {
+        padding-right: 80px;
+        padding-left: 50px;
+    }
+    .werde-teil-teams-block {
+        left: 30px;
+    }
+    .probetraining-image-shape-block {
+        right: 5%;
+    }
+    .footer-content-block ul li:nth-child(1), .footer-content-block ul li:nth-child(2) {
+        width: 50%;
+    }
+    .footer-content-block ul li:nth-child(3) {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .footer-content-block ul li:nth-child(2):after {
+        display: none;
+    }
+    .social-media-ic {
+        text-align: left;
+    }
+    .social-media-ic p{
+        display: inline-block;
+    }
+    .social-media-ic p + p{
+        margin-left: 25px;
+        margin-top: 0;
+    }
+    .footer-title h3 {
+        margin-bottom: 20px;
+    }
+    .footer-bg-block {
+        padding-top: 140px;
+        padding-bottom: 30px;
+    }
+    .footer-block:after {
+        top: 70px;
+    }
+    .online-analyse-img2{
+        bottom: 110px;
+    }
+
+    /*leistungen page*/
+    .movement_section{
+        padding: 110px 0px;
+    }
+    .movement_inner_section{
+        padding: 55px 0;
+    }
+    .gesundheitsstudio_inner_section {
+        padding-top: 100px;
+    }
+    .gesundheitsstudio_main_contain{
+        padding: 0px;
+    }
+    .beratungstermin_vereinbaren_inner_section{
+        margin: 110px 0 80px;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        padding: 50px 125px;
+    }
+
+    /*news page*/
+    .new_inner_section{
+        padding-bottom: 110px;
+    }
+    .slider .common-header-banner-wrapper{
+        padding-bottom: 100px;
+    }
+
+    /*kontakat page*/
+    .jam_border{
+        width: 50%;
+        right: 6%;
+        height: 83%;
+    }
+    .jam_form_inner > input + input {
+        margin-top: 10px;
+    }
+    .jam_form{
+        padding: 50px;
+
+    }
+    .jam_form_inner h3{
+        text-align: center;
+    }
+    .jam_form_inner > input{
+        height: 50px;
+    }
+    .jam_form_inner textarea{
+        height: 160px;
+    }
+    .jam_form_group .form-group{
+        margin-bottom: 25px;
+    }
+    .jam_pad{
+        padding: 0 15px;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kursplan_main_slider_section {
+        padding: 110px 30px;
+    }
+    .kursplan_main h2 {
+        font-size: 30px;
+    }
+    .kursplan_main_slider_section .owl-prev {
+        left: -40px;
+    }
+    .kursplan_main_slider_section .owl-next {
+        right: -40px;
+    }
+    .kursplan_main_slider_section .owl-prev img,  .kursplan_main_slider_section .owl-next img {
+        min-width: auto;
+    }
+    .slider-for .product_img {
+        margin-right: 15px;
+        width: 170px;
+    }
+    .slider-for .product_contain {
+        padding: 25px 0 0;
+        width: calc(100% - 170px);
+    }
+    .slider-for .product_contain .common-small-btn {
+        min-width: auto;
+        font-size: 16px;
+    }
+    .slider-for .product_contain p {
+        font-size: 18px;
+    }
+
+    /*=====new====*/
+    .kontakt_map_section{
+        height: 600px;
+        border-radius: 50px 0 0 50px;
+    }
+    .wave_shape {
+        max-width: 182px;
+    }
+    .wave_shap_img {
+        max-width: 180px;
+    }
+    .kursplan_main {
+        padding-top: 80px;
+    }
+    .news_inner_contain {
+        padding: 40px 0 0 0;
+    }
+    .modal-dialog {
+        max-width: 800px;
+        height: 500px;
+    }
+    .lb-data .lb-close{
+        width: 70px;
+        height: 70px;
+        /*margin-right: -30px;*/
+    }
+}
+
+@media screen and (max-width: 1530px) {
+    /*leistungen page*/
+    .movement_inner_section {
+        padding: 44px 0;
+    }
+    .gesundheitsstudio_contain{
+        padding: 40px 60px 40px;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        padding: 45px 110px;
+        margin: 80px 0px 80px;
+    }
+    .slider .common-header-banner-wrapper{
+        padding-bottom: 70px;
+    }
+    .footer-desk-logo {
+        width: 445px;
+        height: 230px;
+    }
+    .banner-play-btn a {
+        width: 125px;
+        height: 125px;
+        left: -50px;
+        font-size: 60px;
+    }
+    .cm-shape {
+        width: 100px;
+    }
+    .banner-play-btn a
+
+    /*kontakt page*/
+    .jam_form_inner h3{
+        margin-bottom: 27px;
+    }
+    .jam_form_inner > input{
+        font-size: 18px;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-item img.common-img-shape {
+        width: 100px;
+    }
+
+    .fitness-blog-image-block {
+        max-width: 28%;
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-nav{
+        bottom: 0px;
+        right: -14.5%;
+    }
+    .cp-left {
+        padding-left: 8%;
+    }
+    .cp-right {
+        padding-right: 8%;
+    }
+    .aktueller-kurs-block {
+        margin-top: -50px;
+    }
+    .gewinnspiel-content-block {
+        padding-left: 5%;
+    }
+    .jahren_profile + .jahren_profile {
+        margin-top: 30px;
+    }
+    .jahren_profile_img {
+        width: 45%;
+    }
+    .social-icon-fixed ul li a img {
+        max-width: 75%;
+    }
+
+    /*=====new====*/
+    .movement_training_inner_contain {
+        width: 758px;
+        padding: 35px 70px 35px 182px;
+    }
+    .gesundheitsstudio_contain .common-large-btn {
+        margin-top: 35px;
+    }
+     .gesundheitsstudio_contain {
+        padding: 30px 50px 30px;
+    }
+    .kursepluse_main_table {
+        padding: 80px 0px 80px;
+    }
+    .news_inner_contain {
+        padding: 20px 0 0 0;
+    }
+
+}
+@media screen and (max-width: 1440px) {
+    .menu-nav ul li a, .menu-nav ul li .dropdown-submenu li > a {
+        font-size: 16px;
+    }
+    .header-btn-block {
+        display: none;
+    }
+    .home-banner-image {
+        border-radius: 80px 0 0 80px;
+    }
+    .common-banner-image .cm-shape {
+        width: 100px;
+        left: -1px;
+    }
+    .slick-next {
+        right: 80%;
+    }
+    .common-banner-image .banner-play-btn a {
+        left: -50px;
+        width: 120px;
+        height: 120px;
+        font-size: 60px;
+    }
+    .fs-item-box {
+        padding: 25px 15px;
+    }
+    .fs-col {
+        padding: 0 15px;
+    }
+    .wir-empfehlen-owl {
+        margin: 0 -15px;
+    }
+    .wir-empfehlen-owl-block {
+        padding-left: 10px;
+    }
+    .we-col {
+        padding: 0 15px;
+    }
+    .fitness-blog-box {
+        padding: 100px 15px 45px 31%;
+    }
+    .we-product-content .common-section-btn .common-small-btn {
+        font-size: 85%;
+    }
+    .best-slider-nav, .best_slider-for {
+        width: 50%;
+    }
+    .slider-for .product_contain .common-small-btn {
+        max-width: 70%;
+    }
+
+    .fitness-studio-owl {
+        margin: 0 -15px;
+    }
+    .fs-item-title h3 a{
+        font-size: 20px;
+    }
+    .lsu-first-ring-block, .lsu-two-ring-block {
+        padding: 40px 0 40px 40px;
+    }
+    .lsu-number-box p {
+        font-size: 14px;
+    }
+    .lsu-number-box h3 {
+        font-size: 40px;
+    }
+    .das-sagen-unsere-desc-box .common-section-desc {
+        max-width: 100%;
+    }
+    .bist-du-block {
+        padding-top: 24%;
+    }
+    .gewinnspiel-content-block {
+        padding-left: 5%;
+    }
+    .fitness-blog-image-block {
+        max-width: 25%;
+    }
+    .footer-block {
+        max-width: 71%;
+    }
+    .footer-bg-block {
+        padding-left: 120px;
+    }
+    .footer-content-block ul li:nth-child(1) {
+        padding-right: 50px;
+    }
+    .footer-content-block ul li:after {
+        right: 25px;
+    }
+    .online-analyse-img2{
+        max-width: 400px;
+        height: 262px;
+    }
+    /*leistungen page*/
+    .movement_inner_section {
+            padding: 49px 0;
+    }
+    .movement_training_inner_contain {
+        padding: 30px 30px 30px 150px;
+        width: 660px;
+    }
+    .movement_section {
+        padding: 80px 0px;
+    }
+    .beratungstermin_vereinbaren_contain .main-title{
+        font-size: 52px;
+    }
+    .beratungstermin_vereinbaren_contain p{
+        margin: 35px 0px 50px;
+    }
+    .ja_play_btn {
+        padding: 25px;
+        width: 190px;
+        height: 190px;
+        left: -100px;
+    }
+    .banner-play-btn a{
+        font-size: 65px;
+        width: 135px;
+        height: 135px;
+    }
+    .gesundheitsstudio_inner_section{
+        padding: 90px 0 0px;
+    }
+     .slider .common-header-banner-wrapper{
+        padding-bottom: 50px;
+    }
+    .new_inner_section{
+        padding: 80px 0;
+    }
+
+
+   /*====new=====*/
+    .gesundheitsstudio_contain {
+        padding: 30px 50px 30px;
+    }
+    .movement_training_inner_contain .moretext{
+        margin-top: 30px;
+        font-size: 18px;
+    }
+    .more_main{
+        margin-top: 15px;
+    }
+    .movement_inner_section .common-large-btn{
+        margin-top: 20px;
+    }
+    .common-large-btn{
+        padding: 15px 15px;
+    }
+    .movement_training_inner_contain ul li p, .gesundheitsstudio_contain ul li p{
+        font-size: 18px;
+    }
+    .moreless-button span, .new_moreless-button span{
+        font-size: 18px;
+    }
+    .wave_shape {
+        max-width: 162px;
+    }
+    .wave_shap_img {
+        max-width: 160px;
+    }
+    .news_inner_contain {
+        padding: 0px 0 0 0;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        padding: 45px 70px 45px 45px;
+    }
+
+}
+@media screen and (max-width: 1360px) {
+
+    .probetraining-form-block, .probetraining-box .common-section-title {
+        max-width: 500px;
+    }
+    .probetraining-image-shape .svg-shape-img {
+        max-width: 400px;
+    }
+    .probetraining-image-shape .common-img-shape {
+        width: 100px;
+    }
+    .probetraining-image-shape .banner-play-btn a {
+        width: 120px;
+        height: 120px;
+    }
+    .probetraining-image-shape .banner-play-btn a img {
+        width: 50%;
+    }
+    .slider .svg-shape-img .banner-play-btn a img {
+        width: 60%;
+    }
+    .footer-block {
+        max-width: 75%;
+    }
+    .footer-desk-logo {
+        width: 400px;
+        height: 200px;
+    }
+    .aktueller-kurs-block {
+        margin-top: 30px;
+    }
+    .footer-content-block ul {
+        padding-right: 0;
+    }
+    .home-banner-image {
+        border-radius: 50px 0 0 50px;
+    }
+
+    /*leistungen page*/
+    .gesundheitsstudio_contain .common-large-btn {
+        margin-top: 40px;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        padding: 45px 84px 45px 50px;
+    }
+    .beratungstermin_vereinbaren_contain p{
+        font-size: 18px;
+    }
+
+    /*===news page====*/
+    .news_main_contain {
+        padding-left: 25px;
+    }
+    .lorem_title{
+        font-size: 44px;
+    }
+    .date_part p{
+        font-size: 44px;
+        line-height: 1.2;
+    }
+
+    .kontakt_map_section{
+        height: 550px;
+    }
+    .jam_form_inner textarea {
+        height: 120px;
+        margin: 10px 0 15px;
+    }
+    .jam_form_group .form-group {
+        margin-bottom: 15px;
+    }
+
+    /*--- Studio Page ----*/
+
+    .jahren_profile_img {
+        width: 45%;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kurse_day_section ul li a {
+        padding: 10px 25px;
+    }
+    .kurse_day_section {
+        padding: 12px 25px;
+    }
+    .slider .kursplan_main_slider_section .owl-next {
+        right: -35px;
+    }
+    .slider .kursplan_main_slider_section .owl-prev {
+        left: -35px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1218px){
+    .fitness-studio-owl .fs-col{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .fs-shape-line {
+        display: none;
+    }
+    .fs-col:nth-child(1), .fs-col:nth-child(4), .fs-col:nth-child(3) {
+        margin-top: 00px;
+    }
+    .fitness-studio-owl {
+        margin: 0;
+    }
+    .fs-col {
+        margin: 15px 0 !important;
+    }
+    .fitness-studio-slider-block {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .fs-item-box {
+        box-shadow: 0 0px 20px #00000017;
+    }
+    .cp-left {
+        padding-left: 3%;
+    }
+    .cp-right {
+        padding-right: 3%;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+
+    .container{
+        max-width: 100%;
+    }
+    .cp-left {
+        padding-left: 15px;
+    }
+    .cp-right {
+        padding-right: 15px;
+    }
+    body{
+        padding: 66px 0 0 0;
+    }
+    .menu-nav ul {
+        padding-left: 0px;
+    }
+    .menu-toggle-btn {
+        display: block;
+        cursor: pointer;
+        margin: 18px 0;
+    }
+    .menu-nav-block {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 100%;
+        background-color: var(--primary-color);
+        clip-path: circle(0px at 100% 0px);
+        transition: 0.5s ease all;
+        z-index: 999;
+        border-radius: 25px 25px 25px 133px;
+        overflow-y: auto;
+        padding: 100px 0 60px;
+        visibility: hidden;
+    }
+    .menu-nav-block.open {
+        display: block;
+        clip-path: circle(100%);
+        visibility: visible;
+    }
+    .menu-back-btn {
+        position: fixed;
+        right: 20px;
+        top: 20px;
+        cursor: pointer;
+        display: block;
+    }
+    .mobile-logo-shape {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .mobile-logo-shape img {
+        max-width: 110px;
+    }
+    .menu-nav ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+    }
+    .menu-nav ul li.active a, .menu-nav ul li:hover a, .menu-nav ul li .dropdown-submenu li > a:hover {
+        color: #fff;
+    }
+    .menu-nav ul li:hover a:hover {
+        border-color: #fff;
+    }
+    .menu-nav ul li a:after{
+        opacity: 1;
+        content: unset;
+        visibility: hidden;
+    }
+    .menu-nav ul li.has-submenu a.menu-item:after {
+        content: "";
+        width: 9px;
+        height: 9px;
+        margin: -9px 0 0 11px;
+        display: inline-block;
+        border-width: 0 2px 2px 0px;
+        border-style: solid;
+        color: #fff;
+        transform: rotate(45deg);
+        vertical-align: middle;
+        transition: all 0.3s;
+        background: transparent;
+        position: static;
+        border-radius: 0;
+        visibility: visible;
+    }
+    .menu-nav ul li.has-submenu a.menu-item.menu-open:after {
+        transform: rotate(-135deg);
+        margin-top: 0px;
+    }
+    .has-submenu .dropdown-submenu {
+        position: static;
+        transform: inherit !important;
+        display: none;
+        transition: none;
+        background: transparent;
+        box-shadow: none;
+    }
+    .menu-nav ul li .dropdown-submenu li > a {
+        color: #fff;
+        font-size: 20px;
+        padding: 5px 15px;
+    }
+    .menu-nav ul li .dropdown-submenu li + li {
+        margin-top: 10px;
+    }
+    .menu-nav, .menu-nav ul {
+        height: auto;
+    }
+    .menu-nav ul li, .menu-nav ul li .dropdown-submenu li {
+        margin-right: 0;
+        padding: 0;
+    }
+    .menu-nav ul li a {
+        color: #fff;
+        font-size: 20px;
+        border: 1px solid var(--primary-color);
+        border-radius: 15px;
+        padding: 5px 15px;
+    }
+    .menu-nav ul li + li {
+        margin-top: 20px;
+    }
+    .home-banner-image {
+        border-radius: 50px 0 0 50px;
+        height: 415px;
+        object-fit: cover;
+    }
+    .aktueller-kurs-block {
+        margin: 40px auto 0;
+        padding:0 15px;
+    }
+    .aktueller-kurs-box {
+        padding: 20px 15px;
+    }
+    .common-banner-right-col {
+        width: 50%;
+        padding-left: 50px;
+    }
+    .common-banner-left-col {
+        width: 50%;
+    }
+    .main-title {
+        font-size: 40px;
+    }
+    .section_title {
+        font-size: 25px;
+    }
+    .logo-shape {
+        width: 195px;
+        height: 75px;
+        border-radius: 0px 0px 55px 0px;
+    }
+    .logo-hold img {
+        max-width: 120px;
+    }
+    .logo-block a.logo-hold {
+        bottom: -4px;
+        left: 15px;
+    }
+    .fs-shape-line, .das-sagen-unsere-wrapper:after {
+        display: none;
+    }
+    .fs-col:nth-child(1), .fs-col:nth-child(4), .fs-col:nth-child(3) {
+        margin-top: 00px;
+    }
+    .fitness-studio-owl {
+        margin: 0;
+    }
+    .fs-col {
+        margin: 15px 0 !important;
+    }
+    .fitness-studio-slider-block {
+       padding-left: 20px;
+        padding-right: 20px;
+    }
+    .fs-item-box {
+        box-shadow: 0 0px 20px #00000017;
+    }
+    .lernen-sie-uns-right-col {
+        width: 55%;
+    }
+    .lernen-sie-uns-left-col {
+        width: 45%;
+    }
+    .das-sagen-unsere-box {
+        padding-right: 0;
+    }
+    .online-analyse-content {
+        padding-left: 40px;
+    }
+    .online-analyse-col-right {
+        width: 40%;
+    }
+    .online-analyse-col-left {
+        width: 60%;
+    }
+    .gewinnspiel-box-block {
+        max-width: 480px;
+    }
+    .we-col {
+        max-width: 400px;
+        flex: 0 0 100%;
+    }
+    .owl-carousel .owl-item .start-wrap  img{
+        width: auto;
+    }
+    .fitness-blog-image-block {
+        max-width: 39%;
+    }
+    .fitness-blog-box-block {
+        max-width: 60%;
+        margin-left: auto;
+    }
+    .fitness-blog-box {
+        padding: 40px;
+    }
+    .wir-empfehlen-box {
+        margin-bottom: 15px;
+    }
+
+
+    .wir-empfehlen-owl.owl-theme .owl-nav {
+        max-width: 110px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    .probetraining-form-block, .probetraining-box .common-section-title {
+        max-width: 415px;
+    }
+    .footer-title h3 {
+        margin-bottom: 15px;
+    }
+    .social-media-ic a {
+        font-size: 35px;
+    }
+    .footer-content-block ul li:nth-child(1), .footer-content-block ul li:nth-child(2) {
+        width: 100%;
+    }
+    .footer-content-block ul li + li, .footer-content-block ul li:nth-child(3) {
+        margin-top: 25px;
+    }
+    .footer-content-block ul li:after {
+        display: none;
+    }
+    .footer-desk-logo {
+        width: 340px;
+        height: 190px;
+    }
+    .mitglied_btn{
+        display: block;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-item img.common-img-shape {
+        width: 100px;
+    }
+    .das-sagen-unsere-image-block .banner-play-btn a{
+        left: -50px;
+    }
+    .das-sagen-unsere-image-content-block, .das-sagen-unsere-image-block {
+        width: 50%;
+    }
+    .das-sagen-unsere-image-content-block {
+        padding-left: 40px;
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-nav {
+        right: -22.5%;
+    }
+
+    /*leistungen page*/
+    .movement_training_inner_contain {
+        padding: 25px 25px 30px 205px;
+        width: 702px;
+    }
+    .movement_inner_section {
+        padding: 55px 0;
+    }
+    .movement_training_inner_contain ul li + li {
+        margin-top: 5px;
+    }
+    .movement_inner_section .section_title, .gesundheitsstudio_contain h2{
+        font-size: 34px;
+    }
+    .leistungen_page .common-large-btn {
+        padding: 10px 15px;
+    }
+    .movement_section {
+        padding: 70px 0px 0px;
+    }
+    .beratungstermin_vereinbaren_contain p {
+        margin: 30px 0px 40px;
+    }
+    .common-img-shape{
+        width: 117px;
+        height: 265px;
+        left: -6px;
+    }
+    .svg-shape-img{
+        width: 400px;
+    }
+    .beratungstermin_vereinbaren_inner_section .banner-play-btn a {
+        width: 130px;
+        height: 130px;
+        left: -50px;
+    }
+    .beratungstermin_vereinbaren_contain .main-title {
+        font-size: 46px;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        padding: 40px 62px 40px 45px;
+    }
+    .beratungstermin_vereinbaren_image{
+        padding-left: 15px;
+    }
+    .beratungstermin_vereinbaren_contain_new{
+        padding-right: 15px;
+    }
+    .gesundheitsstudio_main_contain .banner-play-btn a{
+        width: 120px;
+        height: 120px;
+        font-size: 55px;
+    }
+    .banner-play-btn a i {
+        margin-left: 10px;
+    }
+    .ja_play_btn {
+        padding: 25px;
+        width: 170px;
+        height: 170px;
+        left: -100px;
+    }
+    .banner-play-btn a{
+        font-size: 60px;
+        width: 120px;
+        height: 120px;
+    }
+    .gesundheitsstudio_contain {
+        padding: 40px 65px 40px 50px;
+    }
+    .gesundheitsstudio_contain .common-large-btn {
+        margin-top: 30px;
+    }
+    .gesundheitsstudio_inner_section {
+        padding: 80px 0 80px;
+    }
+
+    /*====news Page====*/
+    .news_inner_contain,  .news_main_contain{
+        padding: 0;
+    }
+    .new_inner_section {
+        padding: 60px 0;
+    }
+    .lorem_title {
+        font-size: 36px;
+    }
+
+    .jam_form_inner > input, .jam_form_inner textarea{
+        padding: 15px 20px;
+    }
+    .jam_form_group{
+        margin-left: 20px;
+    }
+    .jam_form_inner .common-small-btn{
+        margin-left: 20px;
+    }
+
+    /*--- Studio Page ----*/
+    .jahren_inner_section p{
+        font-size: 16px;
+    }
+    .jahren_name_inner_section h3 {
+        font-size: 24px;
+    }
+
+    .jahren_name_inner_section {
+        padding: 50px 20px;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kurse_day_section ul li a {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+    .table_lorem_contain span {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    /*leistungen page*/
+    .movement_inner_section {
+        padding: 30px 0;
+    }
+    .movement_training_inner_contain {
+        padding: 40px 30px 40px 140px;
+        width: 600px;
+    }
+    .movement_inner_section {
+        padding: 75px 0;
+    }
+    .beratungstermin_vereinbaren_inner_section{
+        padding: 40px 40px;
+    }
+    .gesundheitsstudio_contain {
+        padding: 40px 65px 40px 30px;
+    }
+    .gesundheitsstudio_contain h2 {
+        margin-bottom: 15px;
+    }
+    .line-height br{
+        display: none;
+    }
+    .gesundheitsstudio_contain .common-large-btn {
+        margin-top: 20px;
+    }
+    .gesundheitsstudio_inner_section {
+        padding: 0 0 75px;
+    }
+    .beratungstermin_vereinbaren_inner_section{
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    .common-banner-left-col, .common-banner-right-col {
+        width: 100%;
+    }
+    .common-banner-content .common-btn-block{
+        display: none;
+    }
+    .mobile-home-banner-btn {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .common-desc p {
+        max-width: 100%;
+    }
+    .common-banner-image {
+        padding-right: 15px;
+        margin: 40px 0;
+    }
+    .home-banner-image {
+        border-radius: 50px;
+        height: auto;
+    }
+    .aktueller-tag-block ul li .common-small-btn {
+        margin-top: 15px;
+    }
+    .common-header-banner-wrapper:after {
+        display: none;
+    }
+    .aktueller-tag-block ul li {
+        margin-right: 25px;
+    }
+    .aktueller-kurs-box .common-sub-title {
+        margin-bottom: 10px;
+    }
+    .common-banner-content {
+        padding-right: 15px;
+    }
+    .fs-item-box {
+        padding:25px 20px;
+    }
+    .fs-item-btn .common-small-btn, .common-small-btn {
+        font-size: 16px;
+        padding: 15px;
+    }
+    .we-product-content .common-section-btn .common-small-btn {
+        min-width: 100%;
+    }
+    .fitness-studio-slider-block > .container {
+        padding: 0;
+    }
+    .fitness-studio-owl.owl-carousel .owl-nav button.owl-next {
+        right: -15px;
+    }
+    .fitness-studio-owl.owl-carousel .owl-nav button.owl-prev {
+       left: -15px;
+    }
+    .lernen-sie-uns-right-col, .lernen-sie-uns-left-col {
+        width: 100%;
+    }
+    .lernen-sie-uns-right-col {
+        order: -1;
+    }
+    .mobile-ring-section-title {
+        display: block;
+        padding-right: 15px;
+    }
+    .lernen-sie-uns-left-col {
+        padding-right: 15px;
+    }
+    .lernen-sie-uns-left-col .common-section-title {
+        display: none;
+    }
+    .lernen-sie-uns-ring-block {
+        margin: 40px 0;
+    }
+    .lsu-three-ring-block ul li {
+        border-right: 1px solid var(--primary-color);
+    }
+    .lernen-sie-uns-left-col .common-section-desc {
+        margin-top: 0;
+        max-width: 100%;
+    }
+    .lsu-three-ring-block ul {
+        padding-right: 0px;
+    }
+    .das-sagen-unsere-image-content-block {
+        width: 100%;
+        padding-left: 0;
+    }
+    .das-sagen-unsere-image-block {
+        max-width: 575px;
+        width: 100%;
+        margin: 40px auto;
+    }
+    .mobile-das-title-star {
+        display: block;
+    }
+    .das-sagen-unsere-desc-box .common-section-title,  .das-sagen-unsere-desc-box .review-star-block, .probetraining-wrapper:after, .slider .common-header-banner-wrapper:after, .kontakt_inner_section::after{
+        display: none;
+    }
+    .das-sagen-unsere-box {
+        padding: 0;
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-nav {
+        position: unset;
+        display: unset;
+        max-width: unset;
+        left: unset;
+        right: unset;
+    }
+    .svg-shape-img .banner-play-btn a {
+        box-shadow: 20px 0px 25px #0000001A;
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-nav [class*=owl-] {
+        top: 50%;
+        transform: translateY(-50%);
+        position: absolute;
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-dots {
+        bottom: -70px;
+    }
+    .svg-shape-img {
+        margin: 0 auto;
+        max-width: 400px;
+        padding-bottom: 40px;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-item img.common-img-shape {
+        width: 90px;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-item .banner-play-btn img {
+        width: 50%;
+    }
+    .svg-shape-img .banner-play-btn a {
+        width: 100px;
+        height: 100px;
+        left: -30px;
+    }
+    .das-sagen-unsere-image-block .banner-play-btn a {
+        left: -40px;
+    }
+    .common-header-banner-wrapper {
+        padding-bottom: 0;
+    }
+    .svg-shape-img:after {
+        border-radius: 25px 80px 80px 25px;
+    }
+    .svg-shape-img:before {
+        border-radius: 25px 80px 80px 25px;
+    }
+    .common-img-radius {
+        border-radius: 25px 80px 80px 25px;
+    }
+    .bist-du-box {
+        padding: 35px 15px;
+    }
+    .bist-du-box .common-section-btn {
+        margin-top: 30px;
+    }
+    .online-analyse-col-left, .online-analyse-col-right {
+        width: 100%;
+    }
+    .online-analyse-content {
+        padding-left: 00px;
+        padding-top: 40px;
+    }
+    .werde-teil-teams-block {
+        left: 0;
+        position: relative;
+        margin-top: -6%;
+    }
+    .werde-teil-teams-box {
+        margin: 0 10px;
+    }
+    .werde-teil-img-block {
+        margin: 0;
+        margin-left: 35px;
+    }
+    .werde-teil-img-block img, .werde-teil-img-block:after, .werde-teil-img-block:before {
+        border-radius: 15px 50px 15px 15px;
+    }
+    .werde-teil-img-block:before {
+        right: -40px;
+       bottom: -20px;
+    }
+    .werde-teil-img-block:after {
+        right: -20px;
+        top: -25px;
+    }
+    .unsere-tarif-block {
+        padding: 50px 0 0;
+    }
+    .werde-teil-block {
+        padding: 70px 40px 70px 0px ;
+    }
+    .gewinnspiel-box, .gewinnspiel-wrapper:after {
+        display: none;
+    }
+    .spin-block {
+        position: relative;
+        left: 0;
+        right: 0;
+        width: 550px;
+        min-width: unset;
+        margin: 0 auto;
+        top: unset;
+    }
+    .gewinnspiel-box-block {
+        max-width: 100%;
+        padding-bottom: 0;
+    }
+    .mobile-spin-wheel-btn {
+        display: block;
+        padding-top: 80px;
+        text-align: center;
+    }
+    .gewinnspiel-content-block {
+        padding-left: 0;
+    }
+    .jahren_slider {
+        padding-bottom: 70px;
+    }
+    .gewinnspiel-content-block {
+        padding-top: 0px;
+    }
+    .gewinnspiel-block, .fitness-blog-block, .dein_neues_inner_section {
+        padding: 70px 0;
+    }
+    .jahren_inner_slider .section_title {
+        margin: 40px 0;
+    }
+    .dein_neues_inner_section .section_title {
+        margin-bottom: 50px;
+    }
+    .fitness-blog-box-block {
+        max-width: 100%;
+    }
+    .fitness-blog-image-block {
+        max-width: 70%;
+        position: relative;
+        margin: 0 auto -25%;
+    }
+    .fitness-blog-box .common-section-title{
+        display: none;
+    }
+    .mobile-fitness-blog-title {
+        display: block;
+        padding-bottom: 50px;
+    }
+    .fitness-blog-box {
+        padding: 30% 20px 20px;
+    }
+    .wir-empfehlen-title h3 {
+        font-size: 24px;
+    }
+    .fitness-blog-box .common-section-desc p {
+        font-size: 16px;
+        color: var(--light-black);;
+    }
+    .we-best-seller-title h3, .we-price-desc p {
+        font-size: 16px;
+    }
+    .we-product-img {
+        width: 110px;
+    }
+    .we-product-content {
+        width: calc(100% - 110px);
+    }
+    .probetraining-box {
+        border-radius: 15px 15px 50px 50px;
+        padding: 250px 30px 60px;
+    }
+    .probetraining-form-block, .probetraining-box .common-section-title {
+        max-width: 100%;
+    }
+    .probetraining-box-block {
+        max-width: 100%;
+        width: 100%;
+    }
+    .probetraining-box .main-title {
+        max-width: 100%;
+        text-align: center;
+    }
+    .probetraining-image-shape-block {
+        position: relative;
+        right: unset;
+        top: unset;
+        transform: unset;
+        order: -1;
+        margin: 0 auto -210px;
+        z-index: 10;
+    }
+    .probetraining-pr{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .common-img-shape-gold-white {
+        display: block;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: -1px;
+        width: 100px;
+    }
+    .probetraining-image-shape-block .common-img-shape{
+        display: none;
+    }
+    .faq-col + .faq-col {
+        margin-top: 35px;
+    }
+    .ct_accordion_lable h3 {
+        font-size: 18px;
+    }
+    .footer-desk-logo, .footer-wrapper:after {
+        display: none;
+    }
+    .footer-block:after {
+        top: 40px;
+        border-radius: 65px 0px 0px 0px;
+        left: -26px;
+        width: calc(115% - -4px);
+    }
+    .footer-block {
+        max-width: calc(100% - 50px);
+    }
+    .footer-bg-block {
+        border-radius: 65px 0px 0px 0px;
+        padding: 220px 20px 20px 20px;
+    }
+    .footer-content-block ul, .footer-content-block ul li:nth-child(1) {
+        padding-right: 0;
+    }
+    .mobile-footer-logo {
+        display: block;
+        position: absolute;
+        top: 90px;
+        left: -50px;
+        z-index: 10;
+    }
+    .mobile-footer-logo a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 190px;
+        height: 90px;
+        border-radius: 0px 50px 0px 0px;
+        background-color: var(--dark-black);
+    }
+    .common-small-btn{
+        padding: 15px;
+        min-width: 261px;
+    }
+    .social-icon-fixed ul li a {
+        height: 70px;
+        width: 70px;
+    }
+    .best_slider_inner .product_contain .common-small-btn {
+        padding: 6px 10px;
+        font-size: 15px;
+    }
+    .slider-for .product_img {
+        width: 130px;
+    }
+    .slider-for .product_contain {
+        width: calc(100% - 130px);
+    }
+    .best-slider-nav, .best_slider-for {
+        width: 100%;
+    }
+    .silder_product_info {
+        margin: 10px auto;
+        max-width: 360px;
+    }
+    .slider-for .product_contain .common-small-btn {
+        margin-top: 10px;
+    }
+    .slick-prev, .slick-next {
+        top: unset;
+        bottom: -51px;
+    }
+    .best-slider-nav {
+        padding-left: 00px;
+    }
+    .slick-prev {
+        left: 42%;
+    }
+    .slick-next {
+        right: 40%;
+    }
+    .bist-du-block{
+        padding-top: 28%;
+        max-width: 560px;
+    }
+    .werde-teil-teams-block {
+        max-width: 560px;
+    }
+    .online-analyse-img2{
+        max-width: 520px;
+        height: 280px;
+    }
+    .online-analyse-img1{
+        max-width: 386px;
+        height: 238px;
+    }
+
+
+    /*leistungen page*/
+    .beratungstermin_vereinbaren_image{
+        justify-content: center;
+    }
+    .beratungstermin_vereinbaren_inner_section{
+        background: none;
+    }
+    .beratungstermin_vereinbaren_inner_section::after{
+        content: ' ';
+        width: 100%;
+        height: 68%;
+        background-color: var(--primary-color);
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        border-radius: 25px;
+        z-index: -1;
+    }
+    .beratungstermin_vereinbaren_contain{
+        text-align: center;
+    }
+    .beratungstermin_vereinbaren_contain .main-title{
+        display: inline-block;
+    }
+    .movement_training_contain_image{
+        position: unset;
+        width: 100%;
+    }
+    .movement_inner_section{
+        flex-wrap: wrap;
+        padding-top: 0px;
+    }
+    .movement_training_inner_contain{
+        width: 100%;
+    }
+    .movement_training_inner_contain{
+        box-shadow: none;
+    }
+    .movement_inner_section{
+        padding: 0 100px;
+        margin: 20px 0;
+    }
+    .movement_shadow_section{
+        box-shadow: 0 0px 25px #00000025;
+        border-radius: 25px;
+    }
+    .movement_training_contain_image{
+        padding: 40px;
+    }
+    .movement_training_inner_contain{
+        padding: 0px 40px 40px 40px;
+    }
+    .movement_section {
+        padding: 70px 0px 70px;
+    }
+    .movement_section_slider  .owl-prev{
+        left: 35px;
+    }
+    .movement_section_slider .owl-next{
+        right: 35px;
+    }
+    .gesundheitsstudio_inner_section{
+        padding-top: 0px;
+    }
+    .gesundheitsstudio_inner_section .pr-sm-0{
+        padding-right: 15px !important;
+    }
+    .gesundheitsstudio_contain {
+        padding: 40px 40px 40px 40px;
+    }
+    .gesundheitsstudio_inner_section{
+        padding: 0 100px;
+    }
+    .gesundheitsstudio_shadow_section{
+        box-shadow: 0 0px 25px #00000025;
+        border-radius: 25px;
+        margin: 20px 0;
+    }
+    .gesundheitsstudio_contain{
+        box-shadow: none;
+    }
+    .gesundheitsstudio_img{
+        padding: 0px 40px 40px 40px;
+    }
+    .ja_play_btn {
+        padding: 20px;
+        width: 150px;
+        height: 150px;
+        left: 38%;
+    }
+    .banner-play-btn a{
+        font-size: 65px;
+        width: 115px;
+        height: 115px;
+        font-size: 50px;
+    }
+    .gesundheitsstudio_shadow_section .ja_play_btn{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .gesundheitsstudio_shadow_section .banner-play-btn a{
+        position: unset;
+        transform: unset;
+    }
+    .beratungstermin_vereinbaren_inner_section .row .beratungstermin_media{
+        order: 2;
+    }
+    .beratungstermin_vereinbaren_inner_section .row .beratungstermin_media_another{
+        order: 1;
+    }
+    .common-img-shape{
+        display: none;
+    }
+    .goldden_white{
+        display: block;
+    }
+    .beratungstermin_vereinbaren_inner_section{
+        padding: 0 15px;
+    }
+    .beratungstermin_vereinbaren_contain_new{
+        padding-right: 0px;
+    }
+    .beratungstermin_vereinbaren_inner_section{
+        margin: 50px 0px 60px;
+    }
+    .slider .common-banner-right-col{
+        padding-left: 0px;
+    }
+    .beratungstermin_vereinbaren_image{
+        padding-left: 0px;
+    }
+
+    /*===new page===*/
+    .more_main {
+        margin-top: 10px;
+    }
+    .new_inner_section {
+        padding: 50px 0;
+    }
+    .news_page .owl-prev img, .news_page .owl-next img {
+        min-width: 20px;
+    }
+    .news_page .new_slider_section .owl-prev {
+        left: -15px;
+    }
+    .news_page .new_slider_section .owl-next {
+        right: -15px;
+    }
+    .new_slider_details h3{
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    .new_slider_details p{
+        font-size: 16px;
+    }
+    .moreless-button span, .new_moreless-button span {
+        font-size: 16px;
+    }
+    .new_slider_section{
+        padding-bottom: 40px;
+    }
+
+    /*konkat page*/
+    .kontakt_map_section{
+        display: none;
+    }
+    .kontakt_inner_section .col-md-7::before{
+        display: none;
+    }
+    .jam_border{
+        display: none;
+    }
+    .jam_form{
+        position: unset;
+    }
+    .kontakt_inner_section{
+        padding: 0px;
+        margin: 0px;
+    }
+    .jam_form{
+        margin: 70px 0px;
+    }
+    .jam_form_group .form-group label{
+        text-align: left;
+    }
+    .jam_form_inner{
+        text-align: center;
+    }
+
+    /*--- Studio Page ----*/
+    .jahren_name_inner_section {
+        border-radius: 15px 0px 0px 15px;
+    }
+    .jahren_right_name .jahren_name_inner_section {
+        border-radius: 0px 15px 15px 0px;
+    }
+    .jahren_inner_section .main-title, .jahren_inner_section p {
+        max-width: 100%;
+    }
+    .jahren_details {
+        margin-top: 15px;
+        margin-bottom: 35px;
+    }
+    .jahren_inner_section, .kursepluse_main_table {
+        padding: 70px 0;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kursplan_main .common-small-btn {
+        min-width: 100%;
+    }
+    .jam_form {
+        width: 100%;
+        border-radius: 25px;
+    }
+    .kursplan_main h2 {
+        font-size: 24px;
+    }
+    .kursplan_main_slider_section {
+        padding: 70px 15px;
+    }
+    .kursplan_main_slider_section .owl-prev {
+        left: -30px;
+    }
+    .kursplan_main_slider_section .owl-next {
+        right: -30px;
+    }
+    .kursepluse_inner_table ul li {
+        width: 50%;
+    }
+    .kursepluse_inner_table ul li:nth-child(1),
+    .kursepluse_inner_table ul li:nth-child(2) {
+        border-bottom: 1px solid var(--light-black);
+    }
+    .kursepluse_inner_table ul li:nth-child(2) {
+        border-right: 0;
+    }
+    .kurse_day_section ul li a {
+        padding: 10px 12px;
+    }
+    .dein_neues_inner_section img, .masonry-img-overlay {
+       border-radius: 15px;
+    }
+    .masonry-img-overlay img {
+        max-width: 40px;
+        border-radius: 0;
+    }
+    .slider-for .product_contain .common-small-btn {
+        max-width: 100%;
+    }
+    .best-slider-nav {
+        padding-left: 10px;
+    }
+    .best_slider_inner .product_contain p {
+        font-size: 16px;
+    }
+    .new_slider_main_box {
+        margin: 15px;
+        box-shadow: 0px 0px 15px #0000001a;
+    }
+    .lb-data .lb-close{
+        width: 60px;
+        height: 60px;
+        margin-right: -38px;
+        margin-bottom: -38px;
+    }
+    .wir-empfehlen-owl.owl-theme .owl-nav{
+        max-width: 100%;
+        margin: 0 0 auto -40px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    .wir-empfehlen-owl.owl-theme .owl-nav .owl-prev{
+        margin-right: 50px;
+    }
+    .wir-empfehlen-owl.owl-theme .owl-nav .owl-prev{
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .fitness-studio-slider-block {
+        padding: 30px 20px;
+    }
+    .lernen-sie-uns-block {
+        padding-top: 50px;
+    }
+    .bist-du-block {
+        padding-top: 40%;
+        margin: 0 30px;
+    }
+    .bmi-rechner-img-block {
+        margin-left: 50px;
+    }
+    .bmi-rechner-img-block img, .bmi-rechner-img-block:after {
+        border-radius: 15px 100px 15px 15px;
+    }
+    .bmi-rechner-img-block {
+        padding-right: 20px;
+        padding-bottom: 20px;
+    }
+    .online-analyse-shape {
+        min-height: 415px;
+    }
+    .werde-teil-teams-box {
+        padding: 25px 15px 40px;
+    }
+    .unsere-tarif-block .common-section-desc, .gewinnspiel-block .common-section-desc {
+        max-width: 100%;
+    }
+    .logo-hold img {
+        max-width: 115px;
+    }
+    .logo-block a.logo-hold {
+        bottom: -5px;
+        left: 15px;
+    }
+    .we-col {
+        margin: 0 auto;
+    }
+    .mitglied_btn{
+        padding: 20px 0 0 0;
+    }
+    .modal-dialog {
+        height: 400px;
+    }
+    .online-analyse-img2{
+        max-width: 430px;
+        height: 250px;
+    }
+    .online-analyse-img1{
+        max-width: 300px;
+        height: 200px;
+    }
+
+    /*leistungen page*/
+    .gesundheitsstudio_inner_section, .movement_inner_section{
+        padding: 0 80px;
+    }
+    .movement_section_slider .owl-prev {
+        left: 22px;
+    }
+    .movement_section_slider .owl-next {
+        right: 22px;
+    }
+    .ja_play_btn {
+        padding: 20px;
+        width: 120px;
+        height: 120px;
+    }
+    .banner-play-btn a{
+        font-size: 65px;
+        width: 90px;
+        height: 90px;
+        font-size: 42px;
+    }
+    .gesundheitsstudio_inner_section, .movement_inner_section {
+        padding: 0 44px;
+    }
+    .slider .owl-next img, .slider .owl-prev img{
+        min-width: 20px;
+    }
+    .movement_section_slider .owl-next {
+        right: 5px;
+    }
+    .movement_section_slider .owl-prev{
+        left: 5px;
+    }
+    .movement_section {
+        padding: 40px 0px 40px;
+    }
+    .beratungstermin_vereinbaren_contain .main-title {
+        font-size: 40px;
+    }
+    .beratungstermin_vereinbaren_contain p {
+        margin: 20px 0px 30px;
+    }
+    .beratungstermin_vereinbaren_inner_section::after{
+        height: 70%;
+    }
+    .common-img-radius{
+        border-radius: 25px 65px 65px 25px;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        margin: 40px 0px 60px;
+    }
+
+    /*====news page====*/
+    .news_main_contain{
+        padding: 40px 0 0px;
+    }
+    .lorem_title br{
+        display: none;
+    }
+    .lorem_contain{
+        max-width: unset !important;
+    }
+    .lorem_title {
+        font-size: 32px;
+    }
+    .new_slider_main_box{
+        padding: 25px;
+    }
+    .new_slider_section{
+        padding-bottom: 20px;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kursplan_main {
+        padding: 80px 15px 20px;
+    }
+    .wave_shape {
+        max-width: 147px;
+    }
+    .wave_shap_img {
+        max-width: 145px;
+    }
+    .kursplan_main h2 {
+        position: relative;
+        z-index: 10;
+    }
+    .kurse_day_section ul li{
+        line-height: 1;
+    }
+    .kurse_day_section {
+        padding: 12px 15px 7px;
+    }
+    .kurse_day_section ul li a{
+        text-align: center;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        line-height: 50px;
+        padding: 0 7px;
+    }
+    .lb-data .lb-close {
+        margin-bottom: -35px;
+        margin-right: -18px;
+        width: 60px;
+        height: 60px;
+    }
+    .fs-item-btn .common-small-btn, .common-small-btn {
+        min-width: 100%;
+    }
+
+
+
+
+    /*======new======*/
+    .movement_training_inner_contain ul li p br, .gesundheitsstudio_contain ul li p br{
+        display: none;
+    }
+    .jam_form{
+        width: 100%;
+    }
+    .kursepluse_main_table {
+        padding: 80px 0px 60px;
+    }
+    .bmi-rechner-block {
+        padding: 40px 00px;
+    }
+    .online-analyse-block {
+        padding-top: 40px;
+    }
+    .lb-data .lb-close{
+        width: 50px;
+        height: 50px;
+        margin-right: -30px;
+        margin-bottom: -30px;
+    }
+}
+
+
+@media screen and (max-width: 575px) {
+    body{
+        padding: 60px 0 0 0;
+    }
+    .main-title {
+        font-size: 30px;
+    }
+    html, body {
+        font-size: 16px;
+    }
+    .section_title {
+        font-size: 24px;
+    }
+    .home-banner-image {
+        height: 400px;
+    }
+    .common-large-btn {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+    .common-banner-image .banner-play-btn a {
+        left: -30px;
+        width: 80px;
+        height: 80px;
+        font-size: 40px;
+    }
+    .banner-play-btn a i {
+        margin-left: 8px;
+    }
+    .common-banner-right-col {
+        padding-left: 30px;
+    }
+    .slider .mobile-home-banner-btn {
+        margin-left: 0px;
+    }
+    .aktueller-tag-block ul li {
+        width: 100%;
+        margin-right: 0;
+    }
+    .aktueller-tag-block ul li + li {
+        margin-top: 5px;
+    }
+    .common-banner-image .cm-shape {
+        width: 75px;
+    }
+    .common-large-btn {
+        min-width: 100%;
+    }
+    .mobile-home-banner-btn {
+        padding-right: 15px;
+    }
+    .aktueller-tag-block ul li .common-small-btn {
+        max-width: 85%;
+        min-width: auto;
+        width: 100%;
+        font-size: 16px;
+    }
+    .chb-line-block span {
+        top: -15px;
+    }
+    .grid {
+        padding-left: 0;
+    }
+    .fitness-blog-image img, .fitness-blog-image:after{
+        border-radius: 15px 15px 100px 15px;
+    }
+    .lsu-first-ring-block, .lsu-two-ring-block {
+        padding: 25px 0 25px 25px;
+    }
+    .lsu-three-ring-block {
+        padding: 40px 0px 40px 25px;
+    }
+    .das-sagen-unsere-wrapper {
+        padding: 0 15px;
+    }
+    .das-sagen-unsere-image-block .svg-shape-img {
+        width: 300px;
+        padding-bottom: 25px;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-item img.common-img-shape {
+        width: 75px;
+    }
+    .svg-shape-img .banner-play-btn a {
+        width: 80px;
+        height: 80px;
+        left: -25px;
+    }
+    .masonry__item {
+        width: 100%;
+        margin: 0;
+    }
+    .masonry {
+        margin: 0;
+        padding: 0 30px;
+    }
+    .owl-carousel .owl-item .masonry-img-overlay  img{
+        width:auto;
+        max-width: 40px;
+        border-radius: 0;
+    }
+    .masonry.owl-carousel .owl-nav button.owl-next,
+    .masonry.owl-carousel .owl-nav button.owl-prev {
+        position: absolute;
+    }
+    .masonry.owl-carousel .owl-nav button.owl-next{
+        right: 30px;
+    }
+    .masonry.owl-carousel .owl-nav button.owl-prev{
+        left: -30px;
+    }
+    .dein_neues_inner_section img, .masonry-img-overlay {
+        border-radius: 15px;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-nav button.owl-next {
+        right: -20px;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-nav button.owl-prev {
+        left: -20px;
+    }
+    .svg-shape-img:before {
+        right: -40px;
+    }
+    .svg-shape-img:after {
+        right: -20px;
+        border: 2px solid var(--primary-color);
+    }
+    .das-sagen-unsere-slider .owl-theme .owl-dots .owl-dot span {
+        width: 11px;
+        height: 11px;
+        margin: 3px;
+    }
+    .online-analyse-img1 {
+        top: -50px;
+        left: -40px;
+        max-width: 250px;
+        height: 170px;
+    }
+    .online-analyse-shape {
+        min-height: 325px;
+        margin-top: 75px;
+    }
+    .online-analyse-img2 {
+        bottom: 40px;
+        max-width: 335px;
+        height: 200px;
+    }
+    .online-analyse-shape:after {
+        top: -75px;
+    }
+    .spin-wheel-img {
+        width: 99%;
+        height: 100%;
+    }
+    .spin-block {
+        width: 420px;
+        min-height: 434px;
+    }
+    .spin-ring-bg:before {
+        width: 350px;
+        height: 50px;
+    }
+    .spin-button a {
+        width: 100px;
+        height: 100px;
+        font-size: 16px;
+    }
+    .fitness-blog-box {
+        padding: 30% 15px 20px;
+    }
+    .wir-empfehlen-owl-block {
+        padding-left: 0;
+        width: calc(100% - 25px);
+    }
+    .wir-empfehlen-title {
+        width: 25px;
+    }
+    .zum-blog-btn a:after {
+        top: 7px;
+    }
+    .fitness-blog-image-block {
+        max-width: 85%;
+        left: 0;
+    }
+    .fitness-blog-image:after {
+        left: -16px;
+        bottom: -18px;
+    }
+    .input-filed input {
+        height: 50px;
+    }
+    .we-col {
+        padding: 0 10px;
+    }
+    .wir-empfehlen-owl {
+        margin: 0;
+    }
+    .product-name h4 {
+        font-size: 17px;
+    }
+    .probetraining-image-shape .svg-shape-img {
+        max-width: 330px;
+    }
+    .common-img-shape-gold-white {
+        width: 75px;
+    }
+    .probetraining-image-shape-block {
+        margin: 0 auto -175px;
+    }
+    .probetraining-box {
+        padding-top: 210px;
+    }
+    .input-filed-btn .common-large-btn {
+        padding: 15px 10px;
+    }
+    .f-item {
+        width: 100%;
+    }
+    .jahren_profile_owl{
+        scrollbar-width: unset;
+    }
+    .jahren_profile_owl {
+        max-height: unset;
+        overflow-y: inherit;
+    }
+    .unsere-tarif-block .common-section-desc{
+        display: none;
+    }
+    .werde-teil-block {
+        padding-top: 40px;
+    }
+
+
+    .movement_training_contain_image, .gesundheitsstudio_contain {
+        padding: 20px;
+    }
+    .movement_training_inner_contain, .gesundheitsstudio_img{
+        padding: 0px 20px 20px 20px;
+    }
+    .movement_inner_section .common-large-btn, .gesundheitsstudio_contain .common-large-btn{
+        min-width: 100%;
+    }
+    .movement_inner_section .section_title, .gesundheitsstudio_contain h2 {
+        font-size: 28px;
+    }
+    .movement_training_inner_contain ul li p, .gesundheitsstudio_contain ul li p {
+        font-size: 16px;
+    }
+    .moreless-button span, .new_moreless-button span {
+        font-size: 16px;
+    }
+    .moreless-button .fa-angle-down, .new_moreless-button .fa-angle-down{
+        left: 5px;
+    }
+    .movement_inner_section .common-large-btn{
+        margin-top: 15px;
+    }
+    .gesundheitsstudio_inner_section, .movement_inner_section{
+        padding: 0 20px;
+    }
+    .movement_inner_section, .movement_shadow_section{
+        width: 100%;
+    }
+    .movement_training_inner_contain ul li p br, .gesundheitsstudio_contain ul li p br{
+        display: none !important;
+    }
+    .movement_section_slider .owl-prev{
+        left: -8px;
+    }
+    .movement_section_slider .owl-next{
+        right: -8px;
+    }
+    .slider .owl-next img, .slider .owl-prev img {
+        min-width: 16px;
+    }
+    .ja_play_btn{
+        width: 100px;
+        height: 100px;
+        left: 42%;
+    }
+    .slider .banner-play-btn a{
+        width: 75px;
+        height: 75px;
+        font-size: 30px;
+    }
+    .movement_section {
+        padding: 30px 0px 30px;
+    }
+    .banner-play-btn a i {
+        margin-left: 8px;
+    }
+    .svg-shape-img {
+        width: 300px;
+    }
+    .goldden_white{
+        width: 90px;
+    }
+    .beratungstermin_vereinbaren_inner_section .banner-play-btn a{
+        width: 100px;
+        height: 100px;
+        left: -42px;
+    }
+    .slider .svg-shape-img .banner-play-btn a img{
+        width: 60px;
+    }
+    .beratungstermin_vereinbaren_inner_section::after{
+        height: 71.5%;
+    }
+    .svg-shape-img:after{
+        border-radius: 25px 50px 69px 24px;
+    }
+    .beratungstermin_vereinbaren_contain .main-title {
+        font-size: 34px;
+    }
+    .beratungstermin_vereinbaren_contain p{
+        margin: 15px 0px;
+    }
+    .common-img-radius{
+        border-radius: 25px 50px 50px 25px;
+    }
+    .beratungstermin_vereinbaren_inner_image .svg-shape-img:after{
+        border: 2px solid var(--white-color);
+    }
+    .mitglied_btn{
+        padding: 15px 0 0 0;
+    }
+    .common-small-btn{
+        min-width: 230px;
+        padding: 12px 15px;
+    }
+    .common-section-btn .common-small-btn {
+        min-width: 100%;
+    }
+    .mobile-spin-wheel-btn .common-small-btn {
+        min-width: auto;
+        max-width: 300px;
+    }
+    .beratungstermin_vereinbaren_contain p{
+        font-size: 16px;
+    }
+    .beratungstermin_vereinbaren_inner_section {
+        margin: 30px 0px 60px;
+    }
+
+    /*news page*/
+    .news_main_contain{
+        padding: 25px 0 0;
+    }
+    .new_inner_section{
+        padding: 50px 0 10px;
+    }
+    .date_part{
+        min-width: 20%;
+        margin-right: 30px;
+    }
+    .lorem_contain_clamp{
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;  
+        overflow: hidden;
+    }
+    .news_main_contain .lorem_contain {
+        font-size: 16px;
+    }
+    .new_slider_main_box {
+        margin: 25px;
+    }
+    .new_slider_main_box{
+        padding: 20px;
+    }
+    .moreless-button .fa-angle-down, .new_moreless-button .fa-angle-down{
+        margin-left: 5px;
+    }
+    .slider .beratungstermin_vereinbaren_contain_new .common-large-btn{
+        max-width: 100%;
+        min-width: 100%;
+    }
+
+    /*kontakt page*/
+    .jam_form_inner h3{
+        font-size: 24px;
+    }
+    .jam_form_inner > input, .jam_form_inner textarea{
+        font-size: 16px;
+    }
+    .jam_form{
+        padding: 30px;
+    }
+    .jam_form_inner{
+        width: 100%;
+    }
+    .jam_form_inner .common-small-btn, .jam_form_group {
+        margin-left: 0px;
+    }
+    .jam_form_inner .common-small-btn{
+        width: 100%;
+    }
+    .jam_form_group .form-group label:before{
+        padding: 10px;
+    }
+    .jam_form_group .form-group label{
+        padding-left: 32px;
+    }
+    .jam_form_group .form-group input:checked + label:after{
+        left: 8px;
+        top: 3px;
+    }
+
+    /*--- Studio Page ----*/
+    .jahren_profile_owl {
+        padding:0 30px;
+    }
+    .jahren_name_section {
+        width: 85%;
+        margin-left: auto;
+    }
+    .jahren_profile_img {
+        width: 60%;
+        order: -1;
+        margin-bottom: -45px;
+        z-index: 1;
+    }
+    .jahren_name_inner_section, .jahren_right_name .jahren_name_inner_section {
+        border: 2px solid var(--primary-color);
+        border-radius: 15px;
+    }
+    .jahren_profile_img > img {
+        border-radius: 15px;
+    }
+    .jahren_profile {
+        flex-flow: column;
+        align-items: unset;
+    }
+    .jahren_name_inner_section {
+        padding: 65px 20px 20px;
+    }
+    .dein_neues_inner_section  .owl-carousel .owl-item img{
+        height: 530px;
+        object-fit: cover;
+        object-position: top center;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kursplan_main p {
+        max-width: 100%;
+    }
+    .kursepluse_inner_table ul:nth-child(n+3){
+        display: none;
+    }
+    .kursepluse_inner_table ul:nth-child(2) {
+        border-bottom: 0;
+    }
+    .table_lorem_contain p,  .table_lorem_contain h3 {
+        font-size: 16px;
+    }
+    .table_lorem_contain span {
+        font-size: 14px;
+    }
+
+    .jahren_inner_section, .kursepluse_main_table {
+        padding: 40px 0;
+    }
+    figure.margin {
+        display: none;
+    }
+    .modal-dialog {
+        height: 340px;
+    }
+    .review-star-block span {
+        font-size: 20px;
+    }
+    .slider-nav {
+        display: none;
+    }
+    .slick-prev, .slick-next {
+        bottom: unset;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .slick-prev{
+        left: 0px;
+    }
+    .slick-next {
+        right: 0px;
+        width: 14px;
+    }
+    .silder_product_info .we-best-seller-title {
+        padding: 10px;
+    }
+
+
+    /*====new====*/
+    .kursplan_main h2{
+        height: 60px;
+    }
+    .wir-empfehlen-owl.owl-theme .owl-nav{
+        margin: 0 0 auto -25px;
+    }
+    .wir-empfehlen-owl.owl-theme .owl-nav .owl-prev{
+        margin-right: 35px;
+    }
+    .wir-empfehlen-owl.owl-theme .owl-nav .owl-prev{
+        margin-left: 35px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    /*social-icon*/
+     .social-icon-fixed {
+        display: none;
+    }
+    .footer-fixed-icon {
+        display: block;
+    }
+    .copyright-block {
+        padding-bottom: 50px;
+    }
+
+    .movement_training_contain_image, .gesundheitsstudio_contain {
+        padding: 15px;
+    }
+    .movement_training_inner_contain, .gesundheitsstudio_img{
+        padding: 0px 15px 15px 15px;
+    }
+    .ja_play_btn{
+        width: 60px;
+        height: 60px;
+        left: 43%;
+    }
+    .banner-play-btn a{
+        width: 45px;
+        height: 45px;
+        font-size: 20px;
+    }
+    .banner-play-btn a i{
+        margin-left: 5px;
+    }
+    .movement_inner_section .section_title, .gesundheitsstudio_contain h2{
+        font-size: 22px;
+    }
+    .movement_training_inner_contain ul li p, .gesundheitsstudio_contain ul li p{
+        font-size: 15px;
+    }
+    .gesundheitsstudio_contain h2, .movement_training_inner_contain .section_title{
+        margin-bottom: 10px;
+    }
+    .movement_inner_section .common-large-btn, .gesundheitsstudio_contain .common-large-btn{
+        font-size: 18px;
+    }
+    .leistungen_page .common-large-btn {
+        padding: 8px 15px;
+    }
+    .movement_section_slider .owl-next {
+        right: -5px;
+    }
+    .movement_section_slider .owl-prev {
+        left: -5px;
+    }
+    .gesundheitsstudio_contain .common-large-btn{
+        margin-top: 15px;
+    }
+    .movement_section {
+        padding: 20px 0px 20px;
+    }
+    .leistungen_page .common-large-btn, .beratungstermin_vereinbaren_contain{
+        min-width: 100%;
+    }
+    .dein_neues_inner_section  .owl-carousel .owl-item img{
+        height: 420px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .home-banner-image {
+        height: 300px;
+        border-radius: 30px;
+    }
+    .slider .home-banner-image {
+        height: 230px;
+        width: 100%;
+        object-position: center;
+    }
+    .common-banner-image .cm-shape {
+        width: 65px;
+    }
+    .lsu-three-ring-block {
+        padding: 20px 0px 20px 0px;
+    }
+    .slider-for .product_contain .common-small-btn {
+        padding: 10px;
+    }
+    .lsu-three-ring-block ul li {
+        padding: 10px;
+    }
+    .lsu-number-box h3 {
+        font-size: 25px;
+    }
+    .lsu-first-ring-block, .lsu-two-ring-block {
+        padding: 15px 0 15px 15px;
+    }
+    .lsu-number-box p {
+        font-size: 12px;
+        line-height: 1.2;
+    }
+    .slider-for .product_contain h4 {
+        font-size: 18px;
+    }
+    .slider-for .product_img {
+        width: 100px;
+    }
+    .slider-for .product_contain {
+        width: calc(100% - 100px);
+    }
+    .svg-shape-img .banner-play-btn a {
+        width: 60px;
+        height: 60px;
+        left: -25px;
+    }
+    .das-sagen-unsere-image-block .svg-shape-img {
+        width: 260px;
+    }
+    .probetraining-image-shape .svg-shape-img {
+        width: 260px;
+        max-width: 100%;
+        padding-bottom: 20px;
+    }
+    .probetraining-image-shape .svg-shape-img .banner-play-btn a,
+    .das-sagen-unsere-image-block .svg-shape-img .banner-play-btn a {
+        width: 80px;
+        height: 80px;
+        left: -35px;
+    }
+    .common-img-radius, .svg-shape-img:before, .svg-shape-img:after, .probetraining-image-shape .svg-shape-img:after {
+        border-radius: 25px 40px 40px 25px;
+    }
+    .das-sagen-unsere-wrapper {
+         padding: 0 10px;
+    }
+    .bmi-rechner-img-block {
+        padding-right: 15px;
+        padding-bottom: 15px;
+    }
+    .online-analyse-shape {
+        min-height: 205px;
+    }
+    .online-analyse-img1 {
+        max-width: 200px;
+        height: 115px;
+    }
+    .online-analyse-img2{
+        height: 145px;
+    }
+    .online-analyse-img2 img{
+        border-radius: 15px 15px 50px 15px;
+    }
+    .silder_product_info {
+        padding: 0 15px;
+    }
+    .online-analyse-img1 img {
+        border-radius: 15px;
+    }
+    .online-analyse-img2{
+        left: 65px;
+        right: 35px;
+    }
+    .online-analyse-shape:after {
+        border: 2px solid var(--primary-color);
+    }
+    .werde-teil-block {
+        padding: 70px 25px 70px 0px;
+    }
+    .werde-teil-img-block:after {
+        right: -12px;
+        border: 2px solid var(--primary-color);
+        top: -12px;
+    }
+    .werde-teil-img-block:before {
+        right: -25px;
+    }
+    .spin-block {
+        width: 350px;
+        min-height: 364px;
+    }
+    .we-product-content {
+        width: calc(100% - 75px);
+    }
+    .we-product-img {
+        width: 75px;
+    }
+    .probetraining-image-shape .svg-shape-img {
+        max-width: 260px;
+    }
+    .common-img-shape-gold-white {
+        width: 60px;
+    }
+    .probetraining-image-shape-block {
+        margin-bottom: -145px;
+    }
+    .probetraining-box {
+        padding: 180px 20px 60px;
+    }
+
+    /*leistungen page*/
+    .svg-shape-img {
+        width: 250px;
+    }
+    .beratungstermin_vereinbaren_inner_section .banner-play-btn a {
+        width: 90px;
+        height: 90px;
+        left: -42px;
+    }
+    .goldden_white {
+        width: 70px;
+        height: 60%;
+    }
+    .svg-shape-img .banner-play-btn a img {
+        width: 62px;
+    }
+    .probetraining-image-shape .banner-play-btn a img {
+        width: 50%;
+    }
+    .beratungstermin_vereinbaren_inner_section::after {
+        height: 75%;
+    }
+    .beratungstermin_vereinbaren_contain .main-title {
+        font-size: 28px;
+    }
+    .svg-shape-img:before{
+        right: -30px;
+        bottom: -7px;
+    }
+    .svg-shape-img:after{
+        border-radius: 45px 135px 120px 25px;
+    }
+    .das-sagen-unsere-image-block  .svg-shape-img:after {
+        border-radius: 25px 40px 40px 25px;
+    }
+    .svg-shape-img {
+        width: 200px;
+    }
+    .beratungstermin_vereinbaren_inner_section .banner-play-btn a{
+        width: 80px;
+        height: 80px;
+        left: -38px;
+    }
+    .slider .svg-shape-img .banner-play-btn a img {
+        width: 50px;
+    }
+
+    /*=====new psge====*/
+    .date_part{
+        margin-right: 15px;
+    }
+
+    /*--- Kursplan Page ----*/
+    .kurse_day_section ul li a{
+        width: 33px;
+        height: 45px;
+        padding: 0px;
+        line-height: 45px;
+    }
+    .kurse_day_section ul li.active a {
+        width: 45px;
+        padding: 0 6px;
+    }
+    .jahren_profile_owl {
+        padding: 0 20px;
+    }
+    .jahren_profile_owl.owl-carousel .owl-nav .owl-prev {
+        left: -35px;
+    }
+    .jahren_profile_owl.owl-carousel .owl-nav .owl-next {
+        right: 4px;
+    }
+    .jahren_name_inner_section h3 {
+        font-size: 20px;
+    }
+     .dein_neues_inner_section  .owl-carousel .owl-item img{
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .kursepluse_inner_table ul li{
+        width: 100%;
+        border-right: 0;
+        border-bottom: 1px solid var(--light-black);
+        padding: 40px 15px;
+    }
+    .kursepluse_inner_table ul li:last-child {
+        border-bottom: 0;
+    }
+    .slick-prev {
+        left: -10px;
+    }
+    .slick-next {
+        right: -10px;
+    }
+    .dein_neues_inner_section  .owl-carousel .owl-item img{
+        height: 360px;
+    }
+
+}
+
+@media screen and (max-width: 367px) {
+    .das-sagen-unsere-image-block .svg-shape-img, .probetraining-image-shape .svg-shape-img {
+        width: 200px;
+        max-width: 100%;
+    }
+    .das-sagen-unsere-slider .owl-carousel .owl-item img.common-img-shape, .common-img-shape-gold-white {
+        width: 60px;
+    }
+    .das-sagen-unsere-image-block .svg-shape-img .banner-play-btn a,
+    .probetraining-image-shape .svg-shape-img .banner-play-btn a {
+        width: 65px;
+        height: 65px;
+        left: -26px;
+    }
+    .svg-shape-img:before {
+        right: -25px;
+        height: 80%;
+    }
+    .svg-shape-img:after {
+        top: 0;
+        right: -13px;
+    }
+    .common-img-radius, .svg-shape-img:before, .svg-shape-img:after {
+        border-radius: 10px 25px 25px 10px;
+    }
+    .bist-du-block {
+        margin: 0 10px;
+    }
+    .bmi-rechner-img-block {
+        margin-left: 35px;
+    }
+    .online-analyse-img2 {
+        left: 21px;
+        right: 35px;
+        bottom: 26px;
+    }
+    .online-analyse-shape {
+        min-height: 165px;
+        margin-top: 45px;
+    }
+    .online-analyse-img1 {
+        max-width: 135px;
+        top: -25px;
+    }
+    .online-analyse-shape:after {
+        top: -45px;
+    }
+    .spin-block {
+        width: 290px;
+        min-height: 314px;
+    }
+    .spin-ring-bg:before {
+        width: 265px;
+        height: 35px;
+        bottom: -40px;
+    }
+    .mobile-spin-wheel-btn {
+        padding-top: 50px;
+    }
+    .we-product-block {
+        padding: 10px 10px 20px 10px;
+    }
+    .we-product-img {
+        width: 70px;
+    }
+    .we-product-content {
+       padding-left: 7px;
+        width: calc(100% - 70px);
+    }
+    .wir-empfehlen-owl-block {
+        width: calc(100% - 20px);
+
+    }
+    .wir-empfehlen-title {
+        width: 20px;
+    }
+    .wir-empfehlen-title h3 {
+        font-size: 21px;
+    }
+    .silder_product_info {
+        padding: 0 10px;
+    }
+    .we-product-content .common-section-btn .common-small-btn{
+        font-size: 13px;
+    }
+    .probetraining-image-shape-block {
+        margin-bottom: -112px;
+    }
+    .probetraining-box {
+        padding-top: 145px;
+    }
+    .main-title {
+        font-size: 25px;
+    }
+    .input-filed-btn .common-large-btn {
+        padding: 15px 0px;
+        font-size: 14px;
+    }
+    .beratungstermin_vereinbaren_inner_section .banner-play-btn a{
+        width: 70px;
+        height: 70px;
+        left: -28px;
+    }
+    .slider-for .product_contain p {
+        font-size: 14px;
+    }
+    .slider-for .product_contain .common-small-btn {
+        padding: 10px 5px;
+    }
+
+     /*--- Studio Page ----*/
+    .jahren_profile_img {
+        width: 75%;
+    }
+    .lsu-number-box p {
+
+        word-break: break-all;
+    }
+    .modal-dialog{
+        height: 250px;
+    }
+    .slider .banner-play-btn a{
+        width: 50px;
+        height: 50px;
+    }
+    .ja_play_btn{
+        left: 40%;
+    }
+    .online-analyse-img1 {
+        max-width: 150px;
+        height: 80px;
+    }
+    .online-analyse-img2{
+        height: 100px;
+        max-width: 200px;
+    }
+    .dein_neues_inner_section  .owl-carousel .owl-item img{
+        height: 320px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .copyright-content p span:last-child {
+        display: none;
+    }
+}
+@media screen and (max-width: 320px) {
+    /*leistungen page*/
+    .ja_play_btn{
+        left: 40%;
+    }
+    .ja_play_btn{
+        width: 40px;
+        height: 40px;
+        left: 43%;
+    }
+    .banner-play-btn a{
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+    .we-price-desc p {
+        font-size: 13px;
+    }
+    .spin-block {
+        width: 260px;
+        min-height: 274px;
+    }
+    .spin-ring-bg:before {
+        width: 225px;
+        height: 30px;
+        bottom: -40px;
+    }
+    .mobile-spin-wheel-btn {
+        padding-top: 40px;
+    }
+    .footer-fixed-icon ul li:nth-child(2):after {
+        left: 3px;
+    }
+    .footer-fixed-icon ul li:nth-child(2):before {
+        right: -3px;
+    }
+     .dein_neues_inner_section  .owl-carousel .owl-item img{
+        height: 300px;
+    }   
+}
+
+
+
